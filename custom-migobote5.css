@@ -2203,6 +2203,10 @@ img.channel-emote[title$=":betteldook:"] {
     animation: betteldook 5s forwards;
 }
 
+img.channel-emote[title$=":halloweencandy:"] {
+    animation: betteldook 5s forwards;
+}
+
 img.channel-emote[title$=":amespace:"] {
     animation: amespace 20s forwards;
     animation-timing-function: linear;
