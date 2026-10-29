@@ -2968,10 +2968,10 @@ img.channel-emote[title$=":uiswing:"] {
     }
 	
     100% {
-        transform: scale(0) rotate(0deg);
-        left: 275px;
-        bottom: 575px;	
-	}
+        transform: scale(1) rotate(0deg);
+        left: 00px;
+        bottom: 00px;	
+	}	
 }
 
 
