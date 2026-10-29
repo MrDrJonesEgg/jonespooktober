@@ -2956,9 +2956,9 @@ img.channel-emote[title$=":uiswing:"] {
     }
 
     95% {
-        transform: scale(1) rotate(0deg);
-        left: 00px;
-        bottom: 00px;
+        transform: scale(6) rotate(0deg);
+        left: 250px;
+        bottom: 500px;
     }
 
     99% {
