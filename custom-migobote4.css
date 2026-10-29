@@ -2200,7 +2200,7 @@ img.channel-emote[title$=":polkaaaaaaaaaaaaaaa:"] {
 }
 
 img.channel-emote[title$=":betteldook:"] {
-    animation: betteldook 5s alternate infinite;
+    animation: betteldook 5s forwards;
 }
 
 img.channel-emote[title$=":amespace:"] {
