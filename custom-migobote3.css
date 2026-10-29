@@ -2200,7 +2200,7 @@ img.channel-emote[title$=":polkaaaaaaaaaaaaaaa:"] {
 }
 
 img.channel-emote[title$=":betteldook:"] {
-    animation: betteldook 5s infinite;
+    animation: betteldook 5s alternate infinite;
 }
 
 img.channel-emote[title$=":amespace:"] {
@@ -2953,20 +2953,20 @@ img.channel-emote[title$=":uiswing:"] {
 
     95% {
         transform: scale(6) rotate(0deg);
-        left: 1250px;
-        bottom: 1500px;
+        left: 250px;
+        bottom: 500px;
     }
 
     99% {
         transform: scale(15) rotate(0deg);
-        left: 2275px;
-        bottom: 2550px;
+        left: 275px;
+        bottom: 550px;
     }
 	
     100% {
         transform: scale(0) rotate(0deg);
-        left: 2275px;
-        bottom: 2550px;	
+        left: 275px;
+        bottom: 575px;	
 	}
 }
 
